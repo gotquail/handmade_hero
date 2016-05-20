@@ -6,5 +6,6 @@ int CALLBACK WinMain(
   LPSTR     lpCmdLine,
   int       nCmdShow )
 {
+	MessageBox(0, "asdf", "asdf", MB_OK);
 	return(0);
 }
